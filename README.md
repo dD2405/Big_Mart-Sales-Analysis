@@ -1,2 +1,2 @@
-# Big_Mart-Sales-Analysis
+# Big_Mart_Sales Analysis
 Predicting the output sales for bigmart
