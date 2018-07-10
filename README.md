@@ -9,4 +9,4 @@ The aim is to build a predictive model and find out the sales of each product at
 - Feature engineering to extract the correct features for the model
 - Build a regression model to predict the outlet sales
 
-The project is done as a mandatory Final Project under the Machine Learning Course at Acadview under the guindance of Mr. Shreyas Raghavan and Ms. Meghna P Ayyar
+The project is done as a mandatory Final Project under the Machine Learning Course at Acadview under the guindance of Mr. Shreyas Raghavan('https://github.com/Shreyas3108') and Ms. Meghna P Ayyar
